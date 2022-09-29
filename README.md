@@ -1,4 +1,4 @@
-# CPSC-2350-M01 Group Project
+# CPSC-2350-M01 Group Project - All-in-One Store
 
 Thanks for visiting our CPSC-2350-M01 group project. This project is an online shopping web application, including features on the product listing, searching and filtering, payment method integration, and price comparison.
 
