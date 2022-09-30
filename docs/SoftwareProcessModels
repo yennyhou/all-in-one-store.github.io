@@ -6,11 +6,15 @@ Here below are the pros and cons of "Waterfall" and "Agile" models in the contex
     - Phases on customer requirements, planning and design can be done in advance.
     - It is easier to plan the resources on equipment, workforce and schedule at the early stage.
     - All the processes, design and results can be well documented.
+    - New developers can easily and quickly understand and work on the project with detailed documentation.
 
 -- Cons:
     - We foresee frequent changes in requirements, but reverting changes in this model is expensive.
     - It can take a long time to complete each phase, especially finalizing the requirements.
+    - Clients cannot see the working application until the application is released.
     - The working software is only produced at the later phase, and the requirement may not adapt to the industry's needs anymore.
+    - An experienced developer team is needed to adopt the waterfall model.
+
 
 
 "Agile"
@@ -23,6 +27,7 @@ Here below are the pros and cons of "Waterfall" and "Agile" models in the contex
 -- Cons:
     - We may not have thorough planning on the resources at the beginning of the project.
     - Project documentation may not be detailed enough.
+    - With ongoing changes, the actual project duration may be longer than the estimated time.
 
 
 After discussing with teammates, we all think the "Agile" model is more suitable for our project. 
