@@ -3,8 +3,8 @@
 
 # Team and Roles
 1. Yan Fung Yenny Hou(Team Coordinator)
-2. Grace (Requirements Coordinator)
-3. Yin Kwan Chan (Development Coordinator)
+2. Qi Xu (Development Coordinator)
+3. Yin Kwan Chan (Requirements Coordinator)
 4. Yee Hei Ng (Test Coordinator)
 
 
